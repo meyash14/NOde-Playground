@@ -1,4 +1,4 @@
-// Basic function
+// Basic function1
 // const square = function(x)
 // {
 //     return x*x
